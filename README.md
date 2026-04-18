@@ -51,10 +51,10 @@ python main.py
 ## Results
 
 ### Tracking Output
-![Tracking](screenshots/img1.png)
+![Tracking](Img1.png)
 
 ### Trajectory Visualization
-![Trajectory](screenshots/img2.png)
+![Trajectory](img2.png)
 
 ### Player Count & FPS
-![Stats](screenshots/img3.png)
+![Stats](img3.png)
