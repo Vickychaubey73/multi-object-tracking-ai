@@ -47,3 +47,14 @@ python main.py
 * Heatmap visualization
 * Speed estimation
 * Ball tracking
+
+## Results
+
+### Tracking Output
+![Tracking](screenshots/img1.png)
+
+### Trajectory Visualization
+![Trajectory](screenshots/img2.png)
+
+### Player Count & FPS
+![Stats](screenshots/img3.png)
